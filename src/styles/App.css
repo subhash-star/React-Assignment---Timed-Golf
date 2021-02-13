@@ -19,7 +19,11 @@
   height: 60px;
 
 }
-
+.start{
+  position: absolute;
+  top :100px;
+  left: 100px;
+}
 
 .ball {
   background-color: black;
